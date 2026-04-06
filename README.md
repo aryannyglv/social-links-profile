@@ -39,4 +39,4 @@ Durante o desenvolvimento deste projeto, pratiquei:
 
 ## 🔗 Links
 
-- 🔴 **Deploy (site ao vivo):** _adicione aqui o link do seu projeto_  
+- 🔴 **Deploy (site ao vivo):** [_adicione aqui o link do seu projeto_ ](https://aryannyglv.github.io/social-links-profile/) 
